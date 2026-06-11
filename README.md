@@ -55,7 +55,7 @@ Currently building my open-source portfolio — infrastructure patterns, automat
 
 | Repo | What it is | Status |
 |------|------------|--------|
-| [`terraform-aws-infra`](https://github.com/s-r-kashyap/terraform-aws-infra) | VPC, EC2, S3, EKS provisioned via reusable Terraform modules |  ✅ Completed |
+| [`terraform-aws-infra`](https://github.com/s-r-kashyap/terraform-aws-infra) | VPC, EC2, S3, EKS provisioned via reusable Terraform modules | 🚧 In Progress |
 | [`devops-scripts`](https://github.com/s-r-kashyap/devops-scripts) | Python + Bash scripts for AWS cost reporting, K8s health checks, log parsing | ✅ Completed |
 
 ---
