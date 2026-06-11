@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-r-kashyap-656480149)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rshashankashyap@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=0A66C2)
+![Profile views](https://komarev.com/ghpvc/?username=s-r-kashyap&style=flat&color=0A66C2)
 
 </div>
 
